@@ -1,0 +1,20 @@
+
+test:
+  user-dto:
+    username: sahar
+    password: sahar
+    emailAddress: sahar@gmail.com
+  costumer:
+    uuId: 2345
+    username: sahar
+    password: sahar
+    autority: USER
+    emailAddress: sahar@gmail.com
+
+
+
+
+admin-user:
+  ADMIN
+admin-password:
+  ADMIN

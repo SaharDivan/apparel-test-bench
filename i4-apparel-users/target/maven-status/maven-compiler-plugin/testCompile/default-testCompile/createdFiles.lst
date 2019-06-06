@@ -1,0 +1,7 @@
+nacs/at/users/UsersApplicationTests.class
+META-INF/spring-configuration-metadata.json
+nacs/at/users/logic/ModelTranslatorTest.class
+nacs/at/users/logic/AdminAuthoriserTest.class
+nacs/at/users/logic/UserManagerTest.class
+nacs/at/users/configuration/TestConfiguration.class
+nacs/at/users/communication/userProfileEndpointTest.class

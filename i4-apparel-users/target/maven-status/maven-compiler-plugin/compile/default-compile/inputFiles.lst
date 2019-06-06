@@ -1,0 +1,13 @@
+/home/sahar/IdeaProjects/apparel/i4-apparel-users/src/main/java/nacs/at/users/communication/userProfileEndpoint.java
+/home/sahar/IdeaProjects/apparel/i4-apparel-users/src/main/java/nacs/at/users/logic/IllegibilityManager.java
+/home/sahar/IdeaProjects/apparel/i4-apparel-users/src/main/java/nacs/at/users/ui/controller/loginController.java
+/home/sahar/IdeaProjects/apparel/i4-apparel-users/src/main/java/nacs/at/users/configuration/AdminAuthoriserConfiguration.java
+/home/sahar/IdeaProjects/apparel/i4-apparel-users/src/main/java/nacs/at/users/persistence/domain/UserDto.java
+/home/sahar/IdeaProjects/apparel/i4-apparel-users/src/main/java/nacs/at/users/logic/ModelTranslator.java
+/home/sahar/IdeaProjects/apparel/i4-apparel-users/src/main/java/nacs/at/users/persistence/domain/Authority.java
+/home/sahar/IdeaProjects/apparel/i4-apparel-users/src/main/java/nacs/at/users/logic/AdminAuthoriser.java
+/home/sahar/IdeaProjects/apparel/i4-apparel-users/src/main/java/nacs/at/users/logic/UserManager.java
+/home/sahar/IdeaProjects/apparel/i4-apparel-users/src/main/java/nacs/at/users/persistence/domain/Costumer.java
+/home/sahar/IdeaProjects/apparel/i4-apparel-users/src/main/java/nacs/at/users/UsersApplication.java
+/home/sahar/IdeaProjects/apparel/i4-apparel-users/src/main/java/nacs/at/users/persistence/repository/CostumerRepository.java
+/home/sahar/IdeaProjects/apparel/i4-apparel-users/src/main/java/nacs/at/users/ui/controller/SignUpController.java
