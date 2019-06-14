@@ -1,0 +1,12 @@
+server:
+  port: 9003
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost/basket
